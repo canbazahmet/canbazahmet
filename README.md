@@ -60,4 +60,6 @@
 
 ---
 
-![snake gif](https://github.com/canbazahmet/canbazahmet/blob/output/github-snake.svg)
+<p align="center">
+  <img src="https://github.com/canbazahmet/canbazahmet/blob/output/github-snake.svg" />
+</p>
