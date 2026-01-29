@@ -19,7 +19,7 @@
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mongodb,mysql" />
 </p>
 
 ### 🛠 Tools
