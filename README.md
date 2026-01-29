@@ -14,17 +14,17 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,vite" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb" />
 </p>
 
 ### 🛠 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,figma" />
 </p>
 
 ---
