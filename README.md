@@ -1,27 +1,63 @@
-# 👋 Hi, I'm Ahmet Canbaz
-### 👨‍💻 Full-Stack Developer
+<h1 align="center">Hi 👋 I'm Ahmet Canbaz</h1>
+<h3 align="center">Full-Stack Developer | React • Node.js • Web Applications</h3>
 
-## 📫 Contact Me
-<p>
-    <a href="https://www.linkedin.com/in/ahmet-canbaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:ahmet-canbaz@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/mail.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="mail"></a>
+<p align="center">
+  <em>
+    I develop modern full-stack applications mainly using <strong>React</strong> and <strong>Node.js</strong>.<br/>
+    I also maintain and modernize existing <strong>PHP-based</strong> systems when needed.
+  </em>
 </p>
+
+---
 
 ## 🧠 Skills
 
 ### 🎨 Frontend
-<p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,vite" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,vite" />
 </p>
 
 ### ⚙️ Backend
-<p>
-    <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
 </p>
 
 ### 🛠 Tools
-<p>
-    <img src="https://skillicons.dev/icons?i=git,github,npm" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm" />
 </p>
+
+---
+
+## 🚀 What I Do
+- Build **modern full-stack applications** using **React & Node.js**
+- Develop scalable **RESTful APIs**
+- Create clean, responsive, and user-focused interfaces
+- Maintain and refactor **legacy PHP projects**
+- Improve performance, security, and code quality
+
+---
+
+## 🧩 Development Focus
+- React-based SPA & SSR applications
+- Node.js backend architecture
+- API-driven development
+- Modern frontend tooling (Vite, Next.js)
+- Database-driven systems (MySQL)
+- Gradual migration from legacy systems to modern stacks
+
+---
+
+## 🤝 Contact Me
+📧 Email: ahmet-canbaz@hotmail.com<br/>
+💼 GitHub: https://github.com/canbazahmet<br/>
+🔗 LinkedIn: https://linkedin.com/in/ahmet-canbaz 
+
+---
+
+⭐️ <em>Always learning. Always building.</em>
+
+
+---
 
 ![snake gif](https://github.com/canbazahmet/canbazahmet/blob/output/github-snake.svg)
