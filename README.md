@@ -14,7 +14,7 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vite" />
 </p>
 
 ### ⚙️ Backend
